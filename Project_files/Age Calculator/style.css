@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:whitesmoke;
+}
+.container{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5% 25%;
+    padding : 20px;
+    background-color: white;
+    text-align: center;
+}
+input{
+    font-size: 15px;
+    font-family:none;
+    outline: none;
+    border-radius: 2px;
+}
+#btn{
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(58, 73, 244);
+    border: none;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 7px;
+}
+#btn:hover{
+    background-color: rgb(16, 34, 238);
+}
+.msg{
+    font-size: 22px;
+    margin: 5px;
+    padding: 3px;
+    text-align: center;
+}
