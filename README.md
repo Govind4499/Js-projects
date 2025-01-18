@@ -1,2 +1,2 @@
 # Js-projects
-Here we a more the 20 projects from beginer to Advanced level
+Here we have more then 20 javScript projects from beginer to Advanced level
